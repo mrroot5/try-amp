@@ -1,0 +1,8 @@
+{
+    "name": "try-amp",
+    "version": "0.0.1",
+    "description": "Project to get a deeper knowledge based on amp get started examples",
+    "repository": "git@github.com:mrroot5/try-amp.git",
+    "author": "mrroot5 <mroot5@outlook.es>",
+    "license": "MIT"
+  }
