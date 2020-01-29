@@ -1,0 +1,1 @@
+index.html based on: https://amp.dev/es/documentation/guides-and-tutorials/start/create/basic_markup/
